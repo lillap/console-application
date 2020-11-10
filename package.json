@@ -1,0 +1,23 @@
+{
+  "name": "console-application",
+  "version": "1.0.0",
+  "description": "simple node.js \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[console application built in node.js\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D with 3 options, built in node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lillap/console-application.git"
+  },
+  "author": "lillap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lillap/console-application/issues"
+  },
+  "homepage": "https://github.com/lillap/console-application#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "http": "0.0.1-security"
+  }
+}
